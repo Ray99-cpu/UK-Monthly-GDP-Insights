@@ -1,0 +1,111 @@
+,country,annual_income,corruption_index
+0,Denmark,68110,12
+1,Finland,53660,12
+2,New Zealand,45340,12
+3,Norway,84090,15
+4,Singapore,64010,15
+5,Sweden,58890,15
+6,Switzerland,90360,16
+7,Netherlands,56370,18
+8,Luxembourg,81110,19
+9,Germany,51040,20
+10,United Kingdom,45380,22
+11,Hong Kong,54450,24
+12,Austria,52210,26
+13,Canada,48310,26
+14,Estonia,25970,26
+15,Iceland,64410,26
+16,Ireland,74520,26
+17,Australia,56760,27
+18,Belgium,50510,27
+19,Japan,42620,27
+20,France,43880,29
+21,United Arab Emirates,39410,31
+22,United States,70430,33
+23,Qatar,57120,37
+24,Portugal,23730,38
+25,South Korea,34980,38
+26,Spain,29740,39
+27,Israel,49560,41
+28,Italy,35710,44
+29,Poland,16670,44
+30,Saudi Arabia,22270,47
+31,Greece,20140,51
+32,Malaysia,10930,52
+33,China,11890,55
+34,Romania,14170,55
+35,South Africa,6440,56
+36,India,2170,60
+37,Vietnam,3560,61
+38,Argentina,10050,62
+39,Brazil,7720,62
+40,Indonesia,4140,62
+41,Turkey,9830,62
+42,Sri Lanka,3820,63
+43,Ecuador,5930,64
+44,Thailand,7260,65
+45,El Salvador,4140,66
+46,Sierra Leone,510,66
+47,Algeria,3660,67
+48,Egypt,3510,67
+49,Nepal,1230,67
+50,Philippines,3640,67
+51,Zambia,1040,67
+52,Eswatini,3680,68
+53,Ukraine,4120,68
+54,Gabon,7100,69
+55,Mexico,9380,69
+56,Niger,590,69
+57,Papua New Guinea,2790,69
+58,Azerbaijan,4880,70
+59,Bolivia,3360,70
+60,Djibouti,3300,70
+61,Dominican Republic,8220,70
+62,Kenya,2010,70
+63,Laos,2520,70
+64,Paraguay,5340,70
+65,Togo,980,70
+66,Angola,1770,71
+67,Liberia,620,71
+68,Mali,870,71
+69,Russia,11600,71
+70,Burma,1140,72
+71,Mauritania,1730,72
+72,Pakistan,1500,72
+73,Uzbekistan,1960,72
+74,Cameroon,1590,73
+75,Kyrgyzstan,1180,73
+76,Uganda,840,73
+77,Bangladesh,2620,74
+78,Madagascar,500,74
+79,Mozambique,480,74
+80,Guatemala,4940,75
+81,Guinea,1010,75
+82,Iran,3370,75
+83,Tajikistan,1150,75
+84,Central Africa,530,76
+85,Lebanon,3450,76
+86,Nigeria,2100,76
+87,Cambodia,1550,77
+88,Honduras,2540,77
+89,Iraq,5040,77
+90,Zimbabwe,1400,77
+91,Eritrea,600,78
+92,Cape Verde,3330,79
+93,Congo,1630,79
+94,Chad,650,80
+95,Comoros,1460,80
+96,Haiti,1420,80
+97,Nicaragua,2010,80
+98,Sudan,670,80
+99,Burundi,240,81
+100,Congo (Dem. Republic),580,81
+101,Turkmenistan,7220,81
+102,Equatorial Guinea,5810,83
+103,Libya,8430,83
+104,Afghanistan,500,84
+105,Yemen,670,84
+106,Venezuela,13080,86
+107,Somalia,450,87
+108,Syria,1170,87
+109,South Sudan,460,89
